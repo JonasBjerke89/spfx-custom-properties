@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-properties-datepicker-client-side-solution",
+    "id": "b5193cfa-56aa-4c12-81e8-580bfd3c3f25",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-properties-datepicker.spapp"
+  }
+}

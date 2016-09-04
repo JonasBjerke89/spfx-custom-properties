@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "1e0a0894-1c67-46a5-911e-6ebe9bde334b",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "1e0a0894-1c67-46a5-911e-6ebe9bde334b",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpFxPropertiesDatePicker" },
+    "description": { "default": "SPFxPropertiesDatePicker description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SpFxPropertiesDatePicker"
+    }
+  }]
+}
